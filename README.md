@@ -22,11 +22,15 @@ Welcome to the Online Tailor Store project! This web application allows users to
 
 ## Screenshots
 
-![Screenshot1](/images/screenshot1.png)
-Caption for Screenshot 1
+![WhatsApp Image 2024-03-04 at 8 03 05 PM (1)](https://github.com/ashifahmed-924/Online-Tailor-Store/assets/159910065/1a2c1579-69dd-4919-b983-f75a7e567f37)
 
-![Screenshot2](/images/screenshot2.png)
-Caption for Screenshot 2
+![WhatsApp Image 2024-03-04 at 8 03 05 PM](https://github.com/ashifahmed-924/Online-Tailor-Store/assets/159910065/23c90a5c-2ad2-4133-ab9c-73d7a3795965)
+
+![WhatsApp Image 2024-03-04 at 8 03 06 PM (1)](https://github.com/ashifahmed-924/Online-Tailor-Store/assets/159910065/ffa16639-2579-46b6-a652-69a641cfd0cd)
+
+![WhatsApp Image 2024-03-04 at 8 03 04 PM](https://github.com/ashifahmed-924/Online-Tailor-Store/assets/159910065/7067091a-d67b-44e8-93d1-07cfe4ea3341)
+
+![WhatsApp Image 2024-03-04 at 8 03 06 PM (2)](https://github.com/ashifahmed-924/Online-Tailor-Store/assets/159910065/1282497a-9ec7-4018-963c-6be33aabbebc)
 
 ## Getting Started
 
